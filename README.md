@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @damian-murphy
 - 👀 I’m interested in automation and piplines for secure reliable systems management, engineer efficiency, team organisation, knowledge sharing processes. 
-- 🌱 I’m currently learning about pygame & python, flask, containers, and terraform.
+- 🌱 I’m currently learning about pygame & python, flask, containers, and federated social networks.
 - Previous research interests include genetic algorithms, philosophy of science, finite state automata, field programmable gate arrays.
 - 📫 How to reach me: https://orchestrating-automatons.eu
 
